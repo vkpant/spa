@@ -1,0 +1,2 @@
+git config --global http.cookiefile "%USERPROFILE%\.gitcookies"
+powershell -noprofile -nologo -command Write-Output "source.developers.google.com`tFALSE`t/`tTRUE`t2147483647`to`tgit-vijay.pant.coforgetech.com=1//0g57i5gSmfcbOCgYIARAAGBASNgF-L9IroHli1GITSX_d82xeyXecssBoL7H7MnX900EpR8fpCHK8xFSX4_EY-2hS_tWPqG1DJA" >>"%USERPROFILE%\.gitcookies"
